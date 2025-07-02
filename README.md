@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Prins Kanyal
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Welcome+to+my+GitHub+profile!;Full%20Stack%20web%20Developer%20;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Welcome+to+my+GitHub+profile!;%20Highly%20capable%20Computer%20Science%20student%20with%20a%20solid%20grounding%20in%20AI%2C%20Machine%20Learning%2C%20and%20MERN%20FullStack%20%20Development.%20Experienced%20in%20creating%20robust%20real-time%20applications%20and%20IoT%20solutions%2C%20demonstrating%20the%20ability%20to%20%20deliver%20significant%20projects%20within%20team%20settings%20and%20under%20demanding%20conditions.%20Enthusiastic%20about%20applying%20%20technical%20and%20problem-solving%20abilities%20to%20innovative%20challenges%20in%20the%20tech%20sector.;Always+learning+new+technologies)](https://git.io/typing-svg)
 
-## Full Stack web Developer 
+##  Highly capable Computer Science student with a solid grounding in AI, Machine Learning, and MERN FullStack  Development. Experienced in creating robust real-time applications and IoT solutions, demonstrating the ability to  deliver significant projects within team settings and under demanding conditions. Enthusiastic about applying  technical and problem-solving abilities to innovative challenges in the tech sector.
 
-🌍 **Location:** Dehradun , Uttarakhand
+🌍 **Location:** Dehradun, Uttarakhand
 💻 **GitHub:** [@PhoniexCoder](https://github.com/PhoniexCoder)
 
 ## 🔗 Connect with me:
@@ -19,11 +19,11 @@
 
 **Backend:** Node.js • Express.js • Flask • FastAPI
 
-**Languages:** Python • Java • C++
+**Languages:** C++ • Java • Python
 
-**Databases:** MongoDB • MySQL • Firebase • Supabase
+**Databases:** Firebase • Supabase • MongoDB • MySQL
 
-**Tools:** Git • VS Code • Figma
+**Tools:** Git • Google Cloud • AWS • Figma • VS Code
 
 ## 📊 GitHub Stats:
 
@@ -32,12 +32,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhoniexCoder&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoniexCoder&layout=compact&theme=radical)
-
-## 🎯 Current Focus:
-
-🔭 **Currently Working On:** Real world Projects
-
-👯 **Looking to Collaborate On:** MERN Stack Projects
 
 ## 🏆 GitHub Trophies:
 
