@@ -1,4 +1,3 @@
-
 <!-- 🔝 Banner GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" style="max-width:900px;" />
@@ -18,7 +17,7 @@
 
 - 🔭 I'm a B.Tech undergraduate.
 - 🌱 I'm currently learning Machine Learning and AI
-- 👯 I'm currently learning Machine Learning and AI
+- 👯 I'm seeking opportunities to collaborate on real-world projects.
 - 💬 Ask me about Cybersecurity , Web development and AI ML
 - 📫 How to reach me: prinskanyal@gmail.com
 - ⚡ Fun Fact: The first computer bug was literally a bug.
