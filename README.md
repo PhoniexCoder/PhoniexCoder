@@ -3,11 +3,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" style="max-width:900px;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Prins Kanyal</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prins+Kanyal;Full+Stack+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
-<!-- 🎞️ Right-aligned coding GIF -->
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<!-- 👨‍💻 Coding GIF (right aligned) -->
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=PhoniexCoder&label=Profile%20views&color=0e75b6&style=flat" alt="PhoniexCoder" /> 
