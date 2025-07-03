@@ -1,46 +1,39 @@
-# Hi there! 👋 I'm Prins Kanyal
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Welcome+to+my+GitHub+profile!;%20Highly%20capable%20Computer%20Science%20student%20with%20a%20solid%20grounding%20in%20AI%2C%20Machine%20Learning%2C%20and%20MERN%20FullStack%20%20Development.%20Experienced%20in%20creating%20robust%20real-time%20applications%20and%20IoT%20solutions%2C%20demonstrating%20the%20ability%20to%20%20deliver%20significant%20projects%20within%20team%20settings%20and%20under%20demanding%20conditions.%20Enthusiastic%20about%20applying%20%20technical%20and%20problem-solving%20abilities%20to%20innovative%20challenges%20in%20the%20tech%20sector.;Always+learning+new+technologies)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Prins Kanyal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full%20Stack%20Developer%20passionate%20about%20creating%20amazing%20experiences;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
 
-##  Highly capable Computer Science student with a solid grounding in AI, Machine Learning, and MERN FullStack  Development. Experienced in creating robust real-time applications and IoT solutions, demonstrating the ability to  deliver significant projects within team settings and under demanding conditions. Enthusiastic about applying  technical and problem-solving abilities to innovative challenges in the tech sector.
+- 🔭 I'm currently working on a React Native mobile app
 
-🌍 **Location:** Dehradun, Uttarakhand
-💻 **GitHub:** [@PhoniexCoder](https://github.com/PhoniexCoder)
+- 🌱  I'm currently learning Machine Learning and AI
 
-## 🔗 Connect with me:
+- 👯 I'm looking to collaborate on real world projects
 
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/PhoniexCoder)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prins-kanyal/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:prinskanyal@gmail.com)
+- 💬 Ask me about Web Development, React, and Node.js
 
-## 🛠️ Technologies & Tools:
+- 📫 pinskanyal@gmail.com
 
-**Frontend:** React • HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind CSS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/prins-kanyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/PhoniexCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prince_kanyal07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
 
-**Backend:** Node.js • Express.js • Flask • FastAPI
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> </p>
 
-**Languages:** C++ • Java • Python
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoniexCoder&show_icons=true&locale=en&layout=compact" alt="PhoniexCoder" /></p>
 
-**Databases:** Firebase • Supabase • MongoDB • MySQL
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhoniexCoder&show_icons=true&locale=en" alt="PhoniexCoder" /></p>
 
-**Tools:** Git • Google Cloud • AWS • Figma • VS Code
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhoniexCoder&" alt="PhoniexCoder" /></p>
 
-## 📊 GitHub Stats:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PhoniexCoder" alt="PhoniexCoder" /></a> </p>
 
-![Prins Kanyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoniexCoder&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PhoniexCoder&label=Profile%20views&color=0e75b6&style=flat" alt="PhoniexCoder" /> </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhoniexCoder&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoniexCoder&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PhoniexCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/PhoniexCoder/count.svg)
-
----
-
-💬 Feel free to reach out if you want to collaborate on projects or just chat about technology!
