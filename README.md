@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Prins Kanyal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full%20Stack%20Developer%20passionate%20about%20creating%20amazing%20experiences;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Full%20Stack%20Developer%20passionate%20about%20creating%20amazing%20experiences;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
 
 <table><tr>
