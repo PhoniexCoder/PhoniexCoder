@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full%20Stack%20Developer%20passionate%20about%20creating%20amazing%20experiences;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
 
-<table><tr>
-<td valign="top" style="min-width:250px;">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start;">
+<div style="flex:1;">
 - 🔭 I’m a student of Computer Science and Engineering
 
 - 🌱 I'm currently learning Machine Learning and AI
@@ -19,11 +19,9 @@
 
 - 📫 How to reach me : prinskanyal@gmail.com
 
-</td>
-<td valign="top" style="text-align:right;">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" height="200" />
-</td>
-</tr></table>
+</div>
+<div style="margin-left:auto;"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" height="200" /></div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
